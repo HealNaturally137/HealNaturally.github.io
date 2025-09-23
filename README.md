@@ -1,7 +1,7 @@
 Privacy Policy for the Heal Naturally App
 Last updated: 21/09/2025
 
-HealNaturally we respects your privacy. This Privacy Policy explains how our mobile application handles information.
+Heal Naturally will always respect your privacy. This Privacy Policy explains how our mobile application handles information.
 
 **1. Information We Collect**
 
