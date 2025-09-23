@@ -1,6 +1,6 @@
 #PRIVACY POLICY
 
-Privacy Policy for HealNaturally
+Privacy Policy for the Heal Naturally App
 
 Last updated: 21/09/2025
 
