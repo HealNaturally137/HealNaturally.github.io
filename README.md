@@ -1,7 +1,7 @@
 # HealNaturally.github.io
 Privacy Policy for HealNaturally
 
-Last updated: [Insert Date]
+Last updated: 21/09/2025
 
 HealNaturally we respects your privacy. This Privacy Policy explains how our mobile application handles information.
 
