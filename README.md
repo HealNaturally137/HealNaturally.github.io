@@ -1,3 +1,5 @@
+#PRIVACY POLICY
+
 Privacy Policy for HealNaturally
 
 Last updated: 21/09/2025
