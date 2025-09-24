@@ -1,0 +1,1 @@
+console.log('Heal Naturally site loaded');
